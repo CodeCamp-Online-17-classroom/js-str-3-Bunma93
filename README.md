@@ -7,3 +7,4 @@ let str = 'javascript'
 
 ucFirst(str) //Javascript
 ```
+-ปฏิพงษศกร บุญมา(เจมส์)
